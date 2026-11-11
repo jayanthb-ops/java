@@ -22,3 +22,4 @@ public class TestInterfaceStatic {
         System.out.println(DrawableStatic.cube(3));
     }
 }
+qqq
